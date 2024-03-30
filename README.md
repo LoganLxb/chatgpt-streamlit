@@ -1,6 +1,6 @@
-# 📦 Streamlit App Starter Kit 
+# 📦 Streamlit App Starter training chatgpt data 
 ```
-⬆️ (Replace above with your app's name)
+⬆️ train
 ```
 
 Description of the app ...
